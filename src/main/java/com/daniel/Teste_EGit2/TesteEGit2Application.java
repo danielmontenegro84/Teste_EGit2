@@ -10,6 +10,7 @@ public class TesteEGit2Application {
 		SpringApplication.run(TesteEGit2Application.class, args);
 		
 		System.out.println("Olá, GitHub!");
+		System.out.println("De novo!");
 	}
 
 }
