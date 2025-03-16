@@ -8,6 +8,8 @@ public class TesteEGit2Application {
 
 	public static void main(String[] args) {
 		SpringApplication.run(TesteEGit2Application.class, args);
+		
+		System.out.println("Olá, GitHub!");
 	}
 
 }
